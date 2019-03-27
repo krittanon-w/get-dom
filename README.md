@@ -1,4 +1,5 @@
 # get-dom
+dom scraping POC
 
 # CLI
 - install dependencies: `./bin/setup`, `npm install`
